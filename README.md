@@ -7,7 +7,7 @@ This will force you to dig into docs from online APIs. If you see a command (i.e
 
 ## Requirements
 - Make a new branch of your Walker repo called "ajax"
-- By using the javascript `onclick` event, fire an API call to the [theysaidso.com](https://theysaidso.com/api/) database of famous quotes.
+- By using the javascript `onclick` event, fire an API call to the [the chuck norris quote api](http://www.icndb.com/api/) database of famous Chuck Norris quotes.
 - Display the returned data in the console
 - Display just the quote at the top of the page (as opposed to the entire JSON data that is returned)
 - The quote should change each time The Walker is clicked
